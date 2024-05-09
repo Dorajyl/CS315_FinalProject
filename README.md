@@ -1,5 +1,5 @@
 **Important Folders and Files**:
-merged datasets: folder containing the final data we used for analysis + code for merging the data\
+merged datasets: folder containing the final data we used for analysis + code for merging the data\n
 pyktok_data: pyktok metadata donated from CS315 students\
 user_jsons: json raw data donated from CS315 students\
 user_jsons_to_split: splited json raw data for data recollection + code for spliting the data\
