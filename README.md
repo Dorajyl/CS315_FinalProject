@@ -1,13 +1,13 @@
 **Important Folders and Files**:
-<br>merged datasets: folder containing the final data we used for analysis + code for merging the data
-<br>pyktok_data: pyktok metadata donated from CS315 students
-<br>user_jsons: json raw data donated from CS315 students
-<br>user_jsons_to_split: splited json raw data for data recollection + code for spliting the data
-<br>visualizations: time series visualizations from topic modeling
-<br>Ads Topic Modeling.ipynb: notebook for creating time series visualiations for topic modeling, adapted from class topic modeling notebook\
-<br>CompleteDateTime.ipynb: notebook for creating time series visualizations for exploratory analysis
-<br>ad_exploration.ipynb: notebook for exploratory analysis + case study on Hinge
-<br>looking_at_jsons.ipynb: notebook for intial attempt to merge files
+<br>_merged datasets_: folder containing the final data we used for analysis + code for merging the data
+<br>_pyktok_data_: pyktok metadata donated from CS315 students
+<br>_user_jsons_: json raw data donated from CS315 students
+<br>_user_jsons_to_split_: splited json raw data for data recollection + code for spliting the data
+<br>_visualizations_: time series visualizations from topic modeling
+<br>_Ads Topic Modeling.ipynb_: notebook for creating time series visualiations for topic modeling, adapted from class topic modeling notebook
+<br>_CompleteDateTime.ipynb_: notebook for creating time series visualizations for exploratory analysis
+<br>_ad_exploration.ipynb_: notebook for exploratory analysis + case study on Hinge
+<br>_looking_at_jsons.ipynb_: notebook for intial attempt to merge files
 
 
 
